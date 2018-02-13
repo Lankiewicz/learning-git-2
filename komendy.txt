@@ -1,0 +1,7 @@
+JakubL@DESKTOP-HI6G1OG MINGW64 ~/Desktop/learning-git-2 (master)
+$ npm install --global autoprefixer-cli
+C:\Users\JakubL\AppData\Roaming\npm\autoprefixer-cli -> C:\Users\JakubL\AppData\Roaming\npm\node_modules\autoprefixer-cli\autoprefixer-cli
++ autoprefixer-cli@1.0.0
+added 35 packages in 4.835s
+JakubL@DESKTOP-HI6G1OG MINGW64 ~/Desktop/learning-git-2/sass (master)
+$ autoprefixer-cli -o style.prefixed.css style.css
