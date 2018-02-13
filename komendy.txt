@@ -5,3 +5,9 @@ C:\Users\JakubL\AppData\Roaming\npm\autoprefixer-cli -> C:\Users\JakubL\AppData\
 added 35 packages in 4.835s
 JakubL@DESKTOP-HI6G1OG MINGW64 ~/Desktop/learning-git-2/sass (master)
 $ autoprefixer-cli -o style.prefixed.css style.css
+
+
+JakubL@DESKTOP-HI6G1OG MINGW64 ~/Desktop/zadanie_7_5 (master)
+$ nu-html-checker -V
+0.1.0
+
