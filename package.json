@@ -1,0 +1,27 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.23.6"
+  },
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "globstar": "^1.0.0",
+    "node-sass": "^4.7.2",
+    "nu-html-checker": "^0.1.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lankiewicz/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lankiewicz/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/Lankiewicz/learning-git-2#readme"
+}
